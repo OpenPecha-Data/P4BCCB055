@@ -22,3 +22,8 @@ source_metadata:
       parent: Praise
 created_at: '2022-03-01T01:01:34.438194'
 last_modified_at: '2022-03-01T01:01:34.438197'
+statistics:
+  total_words: 2035
+  total_non_words: 119
+quality:
+  non_words_ratio: 0.06
